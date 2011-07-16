@@ -1,0 +1,4 @@
+function factor()
+{
+alert ("Yay!");
+}
